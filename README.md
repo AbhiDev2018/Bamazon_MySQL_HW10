@@ -1,1 +1,2 @@
-# Bamazon_MySQL_HW10
+# mysql
+bamazon.png file added.
