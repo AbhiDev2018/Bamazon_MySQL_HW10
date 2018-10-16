@@ -1,31 +1,22 @@
 {
   "name": "Bamazon_MySQL_HW10",
   "version": "1.0.0",
-  "description": "Portal similar to Amazon",
+  "description": "",
   "main": "bamazonCustomer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AbhiDev2018/Bamazon_MySQL_HW10.git"
   },
   "keywords": [
     "mysql",
     "inquirer",
     "node",
     "cli"
-  ],
+    ],
   "author": "AbhiDev2018",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AbhiDev2018/Bamazon_MySQL_HW10/issues"
-  },
-  "homepage": "https://github.com/AbhiDev2018/Bamazon_MySQL_HW10#readme",
   "dependencies": {
-    "cli-table": "^0.3.1",
-    "dotenv": "^6.0.0",
     "inquirer": "^6.0.0",
-    "mysql": "^2.16.0"
+    "mysql": "^2.16.0",
+    "table": "^4.0.3"
   }
 }
